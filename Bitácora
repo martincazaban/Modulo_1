@@ -1,0 +1,11 @@
+01/04/2026
+Estuvimos monitoreando la repetidora del cerro. Un grupo se encargó de sintonizar y grabar frecuencias, otros se quedaron con la presentación del profesor y otros con un servidor VPN para entrar por SSH.
+
+07/04/2026
+Estuve probando el control de rotores en Gpredict. Funciona con rotctld (Hamlib) vía IP y puerto, ya sea por red o serial. El hardware tiene que bancarse alguno de los protocolos de la lista; me inclino por el GS-232 porque ya encontré código para Arduino. Falta testearlo en la placa.
+
+10/04/2026
+Escuchamos aviones usando la dipolo; el profe nos explicó que para ADS-B (vigilancia aérea) se usan los 1090 MHz a nivel mundial.
+
+15/04
+Estuvimos preparando los equipos y nos conectamos a radiofrecuencia de antenas en la explanada de la Facultad.
