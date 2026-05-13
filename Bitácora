@@ -1,11 +1,11 @@
 01/04/2026
-Estuvimos monitoreando la repetidora del cerro. Un grupo se encargó de sintonizar y grabar frecuencias, otros se quedaron con la presentación del profesor y otros con un servidor VPN para entrar por SSH.
+Estuvimos monitoreando la repetidora del cerro. Un grupo se encargó de sintonizar y grabar frecuencias, otros se quedaron con la presentación del profesor y otros con un servidor servidor VPN/SSH (usando un servicio externo para resolver la falta de IP fija).
 
-07/04/2026
-Estuve probando el control de rotores en Gpredict. Funciona con rotctld (Hamlib) vía IP y puerto, ya sea por red o serial. El hardware tiene que bancarse alguno de los protocolos de la lista; me inclino por el GS-232 porque ya encontré código para Arduino. Falta testearlo en la placa.
-
-10/04/2026
-Escuchamos aviones usando la dipolo; el profe nos explicó que para ADS-B (vigilancia aérea) se usan los 1090 MHz a nivel mundial.
+08/04/2026
+Estudio de tipos de antenas, mediciones y simulaciones por software para evitar daños en los equipos. Escuchamos aviones vía ADS-B en la frecuencia global de 1090 MHz utilizando la antena dipolo.
 
 15/04
-Estuvimos preparando los equipos y nos conectamos a radiofrecuencia en la explanada de la Facultad. Logramos escuchar una radio china y una radio chilena.
+Pruebas en la explanada de la Facultad conectando un cable al mástil. Mediante simulaciones y el uso de un detector de frecuencias, logramos sintonizar estaciones de China y Chile.
+
+22/04/2026
+Simulación comparativa de distintos modelos de antenas enfocada en la directividad. Se destacó el modelo Moxon por su rendimiento y tamaño reducido frente a opciones convencionales.
